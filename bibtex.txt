@@ -1,0 +1,6 @@
+@inproceedings{mosbach2025prompt,
+  title={Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning},
+  author={Mosbach, Malte and Behnke, Sven},
+  booktitle={International Conference on Robotics and Automation (ICRA)},
+  year={2025}
+}
